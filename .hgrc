@@ -1,0 +1,3 @@
+[paths]
+default=ssh://iupr1.cs.uni-kl.de//home/tmb/mmir
+default-push=ssh://iupr1.cs.uni-kl.de//home/tmb/mmir
