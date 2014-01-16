@@ -7,7 +7,8 @@ all: $(ODP:%.odp=%.pdf) $(NBS:%.ipynb=%-slides.pdf)
 	nb2tex -n $^
 
 %.pdf: %.odp
-	unoconv -o $@ $<
+	# unoconv -o $@ $<
+	true
 
 %-slides.pdf: %.ipynb
 	nb2tex -b $^
