@@ -1,10 +1,14 @@
 # Multimedia Information Retrieval
 
+## Images and Video
+
 [Image Storage](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/10-storage.ipynb)
 
 [Video](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/12-video.ipynb)
 
 [Homework Storage Video](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/19-HOMEWORK-storage-video.ipynb)
+
+## Simple Image Analysis and Classification
 
 [Nearest Neighbor](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/20-nearest-neighbor.ipynb)
 
@@ -15,6 +19,8 @@
 [More Color Histograms](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/28-color-histograms.ipynb)
 
 [Texture Segmentation](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/28-texture-segmentation.ipynb)
+
+## Clustering
 
 [k-Means](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/30-kmeans.ipynb)
 
@@ -30,6 +36,8 @@
 
 [Codebooks](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/40-codebooks.ipynb)
 
+## Patch-Based Methods, Interest Points, Descriptors
+
 [Visual Bag of Words](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/41-visual-bow.ipynb)
 
 [Harris Corner Detection](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/45-harris-corners.ipynb)
@@ -42,6 +50,8 @@
 
 [Features and Descriptors](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/50-features-and-descriptors.ipynb)
 
+## Fast Nearest Neighbor Searches
+
 [Nearest Neighbors](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/60-nearest-neighbor.ipynb)
 
 [Distances in High Dimensions](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/62-dist-hidim.ipynb)
@@ -49,6 +59,8 @@
 [Lowdimensional Images](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/64-lodim-images.ipynb)
 
 [Fast Nearest Neighbors](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/66-fast-nearest-neighbor.ipynb)
+
+## Geometric Matching
 
 [Hough Transform](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/70-hough-transform-lines.ipynb)
 
@@ -60,7 +72,8 @@
 
 [OpenCV Matching](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/79-opencv-matching.ipynb)
 
+## Image Segmentation
+
 [Segmentation](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/80-segmentation.ipynb)
 
 [Snakes](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/82-snakes.ipynb)
-
