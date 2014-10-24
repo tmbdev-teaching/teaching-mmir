@@ -54,7 +54,7 @@
 
 [RANSAC for Lines](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/72-ransac-lines.ipynb)
 
-[RANSAC for Lines (2)](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/74-rast-lines.ipynb)
+[RAST for Lines](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/74-rast-lines.ipynb)
 
 [Image Matching](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-mmir/raw/tip/78-image-matching.ipynb)
 
